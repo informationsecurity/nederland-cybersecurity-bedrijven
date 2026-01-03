@@ -78,3 +78,66 @@ Elke sectie bevat:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Cybersecurity Training](formazione.md)  
+
+---
+
+## 🎯 Waarom deze gids uniek is
+
+### 1. Praktische en Operationele Benadering
+Evaluaties gebaseerd op echte ervaring: indicatieve prijzen, gemiddelde tijden, voordelen.
+
+### 2. Focus op de Nederlandse Markt
+Alleen providers met actieve aanwezigheid in Nederland, taalvaardigheden en verticale expertise overheid/MKB.
+
+### 3. Onpartijdige Analyse
+Elke fiche bevat: sterke punten, zwakke punten, ideale doelgroep, benadering (handmatig vs automatisch).
+
+### 4. Informatie Bijgewerkt voor 2026
+Inclusief:
+- Nieuwe regelgeving (NIS2, DORA, NCSC 2026)
+- Trends (AI Security, DevSecOps, cloud-native)
+- Opkomende cyberdreigingen
+
+---
+
+## 🧩 Hoe deze gids te gebruiken
+
+### ✅ Voor Bedrijven
+1. Identificeer de dienst  
+2. Analyseer de criteria  
+3. Vergelijk de providers  
+4. Lees de FAQ
+
+### 🎓 Voor Professionals
+- Competentie benchmark  
+- Specialisatiemogelijkheden  
+- Trends en regelgeving
+
+### 🧑‍💼 Voor CISO's en IT Managers
+- Ondersteuning leveranciersselectie  
+- Evaluatie technische benaderingen  
+- Audit readiness
+
+---
+
+## 📊 Evaluatiemethodologie
+
+Elke leverancier is geëvalueerd op:
+- Certificeringen en gehanteerde methodologieën
+- Sectorale ervaring en referenties
+- Kwaliteit ondersteuning en responstijden
+- Prijzen, flexibiliteit, geografische dekking
+- Integratie met andere diensten
+- Contractuele transparantie
+
+---
+
+## 📬 Contact
+
+Heb je meldingen, correcties of wil je een nieuwe provider voorstellen?
+
+📧 Schrijf ons: `sales@isgroup.biz`  
+🌐 Of bezoek: [www.isgroup.biz](https://www.isgroup.biz/)
