@@ -78,3 +78,52 @@ EXEEC is een internationale distributeur van cybersecurity-oplossingen ontworpen
 ---
 
 ## Evaluatiecriteria
+
+| Criterium                             | Beschrijving                                                                 |
+|---------------------------------------|-----------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Aanwezigheid van Lead Auditor, Lead Implementer, OSCP, CEH, ISO 27001      |
+| Gehanteerde methodologieën            | Gebruik van NIST, PTES, ISO/IEC 27001:2022, OSSTMM, OWASP frameworks      |
+| Type doelgroep                        | MKB, enterprise, gereguleerde sectoren, overheid                           |
+| Ondersteuning en kwaliteit van rapporten | Duidelijkheid, uitvoerbaarheid, begeleiding na audit                      |
+| Prijs en flexibiliteit               | Transparantie van kosten, modulaire plannen, ondersteuning voor startups   |
+| Reputatie en bediende sectoren       | Referenties, case studies, ervaring in finance, cloud, overheid, industrie |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+**Wat is ISO 27001 Compliance?**
+
+Het is de naleving van de internationale standaard voor informatiebeveiligingsmanagement (ISMS), die vereisten, controles en beleid definieert om bedrijfsgegevens te beschermen.
+
+**Wanneer en waarom is het nodig?**
+
+Het is fundamenteel voor het beschermen van kritieke assets, het verkrijgen van vertrouwen van klanten en partners en het naleven van regelgeving zoals GDPR, NIS2, DORA. Het wordt vaak vereist in openbare aanbestedingen of contracten met grote bedrijven.
+
+**Wat zijn de gemiddelde kosten voor ISO 27001-certificering?**
+
+Variëert van €5.000 tot meer dan €50.000, afhankelijk van grootte, complexiteit en aanpak (intern/extern). Voor MKB bestaan er pakketten vanaf €500/jaar.
+
+**Hoe kies je de juiste leverancier?**
+
+Evalueer technische competenties, methodologie, referenties in jouw sector en ondersteuning bij de keuze van de certificeringsinstantie. Geef de voorkeur aan wie een op maat gemaakte en continue aanpak biedt.
+
+**Welke certificeringen zijn belangrijk?**
+
+Lead Auditor, Lead Implementer ISO 27001, CEH, OSCP, CISSP. De certificeringsinstantie moet geaccrediteerd zijn door RvA of IAF.
+
+**Dekt ISO 27001 ook de cloud?**
+
+Ja, het is compatibel met cloud-, hybride en multicloud-omgevingen, indien geïntegreerd met specifieke controles en adequate risicoevaluaties.
+
+### Kan ik software gebruiken om compliance te beheren?
+
+Absoluut: oplossingen zoals ISMS.online, MyEasyISO of OneTrust vereenvoudigen monitoring, documentatie en governance.
+
+### Moet ik alles opnieuw doen als er een nieuwe versie van de norm uitkomt?
+
+Nee, maar het is noodzakelijk om de controles en documentatie bij te werken om conform te zijn, zoals vereist in de overgang naar ISO/IEC 27001:2022.
+
+**Kan ISGroup me helpen bij de keuze van de certificeringsinstantie?**
+
+Ja, het biedt onpartijdige consultancy om te kiezen tussen BSI, TÜV, DNV, Bureau Veritas en anderen, gebaseerd op budget, industrie en bedrijfsdoelstellingen.
