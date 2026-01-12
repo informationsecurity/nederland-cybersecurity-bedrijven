@@ -78,3 +78,58 @@ Capgemini biedt innovatieve oplossingen voor cloudbeveiliging, met een sterke fo
 EXEEC is een internationale distributeur gespecialiseerd in cloud-native cybersecurity-technologieën, met diensten gericht op offensive security, MDR en 27017 compliance. Ondersteunt systeemintegrators en MSSP's met **oplossingen die al klaar zijn voor adoptie** en schaalbaarheid.
 
 ---
+
+## Evaluatiecriteria
+
+| Criterium                             | Beschrijving                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Aanwezigheid van ISO-, OSCP-, CISSP-certificeringen en geavanceerde cloud-ervaring    |
+| Gehanteerde methodologieën                | Gebruik van internationale standaarden (ISO, NIST, OWASP) en GRC-frameworks     |
+| Type doelgroep               | MKB, grote bedrijven, overheid, gereguleerde sectoren       |
+| Ondersteuning en rapportagekwaliteit     | vCISO-ondersteuning, interne audits, duidelijke technische documentatie               |
+| Flexibiliteit en schaalbaarheid          | Vermogen om zich aan te passen aan verschillende omgevingen (hybride cloud, containers, MongoDB)|
+| Reputatie en referenties             | Tevreden klanten, publieke case studies, aanwezigheid in verticale markten    |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is 27017 Compliance?
+
+Het is compliance met de ISO/IEC 27017-standaard, die beveiligingscontroles specifiek voor cloudservices definieert.
+
+### Wanneer en waarom is het nodig?
+
+Het is cruciaal voor het beschermen van gegevens in de cloud, het verminderen van risico's en het naleven van regelgeving zoals GDPR, DORA en NIS2.
+
+### Wat zijn de gemiddelde kosten voor het verkrijgen van compliance?
+
+Afhankelijk van grootte, volwassenheidsniveau en gekozen provider. Boutiques starten vanaf €6.000, grote spelers overschrijden €20.000.
+
+### Hoe kies je de juiste leverancier?
+
+Evalueer cloud-ervaring, certificeringen, aanpak (op maat of standaard), referenties en geboden ondersteuning.
+
+### Welke certificeringen zijn belangrijk?
+
+ISO/IEC 27001, 27017, SOC 2, CISSP, OSCP, CEH.
+
+### Wat is het verschil tussen ISO 27001 en ISO 27017?
+
+27001 is een algemene standaard voor informatiebeveiliging; 27017 is specifiek van toepassing op cloudservices.
+
+### Welke cloudproviders zijn compatibel met ISO 27017?
+
+AWS, Azure, GCP, IBM Cloud en Oracle Cloud hebben certificeringen of conformiteitsverklaringen voor ISO/IEC 27017.
+
+### Kan ik me certificeren ook als ik meerdere providers gebruik?
+
+Ja, maar het vereist een multi-cloud strategie met uniforme governance en risicocontrole.
+
+### Heb ik ondersteuning van een vCISO nodig?
+
+Het wordt aanbevolen voor MKB of bedrijven zonder interne teams die expert zijn in regelgeving en cloudbeveiliging.
+
+### Is ISGroup ook geschikt voor startups?
+
+Ja, vooral voor startups met hoge beveiligingseisen (fintech, healthtech, cloud-native SaaS).
