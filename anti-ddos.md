@@ -78,3 +78,44 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| Mitigatiecapaciteit              | Ondersteunde volumetrie, reactietijd, beschermingslagen                     |
+| Type bescherming                 | Always-on, on-demand, appliance, cloud, hybride                             |
+| Technische ondersteuning         | 24/7 aanwezigheid, snelle escalatie, lokale ondersteuning                   |
+| Schaalbaarheid en latentie       | Capaciteit om aanvallen op nationale/internationale schaal te absorberen    |
+| Integratie met andere diensten   | WAF, SIEM, SOC, firewall, CDN                                               |
+| Ideale doelgroep                 | MKB, enterprise, overheid, telecom, banken, kritieke operators              |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een DDoS-aanval?
+Het is een aanval die erop gericht is een online dienst niet beschikbaar te maken door servers te overbelasten met kwaadaardig verkeer van gedistribueerde bronnen.
+
+### Wat zijn de meest voorkomende types DDoS-aanvallen?
+UDP Flood, SYN Flood, HTTP Flood, amplification (DNS, NTP), Layer 7 (applicatie) aanvallen.
+
+### Wie loopt het meeste risico in Nederland?
+Banken, overheid, zorgorganisaties, e-commerce, infrastructuuroperators, online media en cloud providers.
+
+### Hoeveel kost een Anti-DDoS dienst?
+Afhankelijk van het type bescherming: van gratis oplossingen (Cloudflare) tot enterprise diensten van €5.000/jaar tot €100.000/jaar voor mission-critical omgevingen.
+
+### Is Anti-DDoS bescherming verplicht?
+Niet altijd op regelgevingsniveau, maar het wordt vereist in veel tenders, overheidsaanbestedingen en contracten met enterprise klanten. Het is ook noodzakelijk voor ISO/IEC 27001 en NIS2 compliance.
+
+### Biedt ISGroup actieve bescherming tijdens een aanval?
+Ja. ISGroup biedt directe technische ondersteuning in geval van een aanval, met snelle escalatie en vooraf geteste mitigatieplannen.
+
+### Hoeveel tijd is er nodig om effectieve DDoS-bescherming te activeren?
+Van enkele uren (voor cloud oplossingen) tot enkele dagen (voor aangepaste configuraties met appliances of hybride systemen).
+
+### Kan ik ook cloud diensten of API's beschermen?
+Ja. De meest geavanceerde oplossingen bieden ook bescherming voor API's, containeromgevingen en microservices.
+
+### Cloudflare of ISGroup? Wat te kiezen?
+Cloudflare is perfect voor wie geautomatiseerde bescherming en snelle implementatie zoekt. ISGroup is ideaal voor wie **gepersonaliseerde ondersteuning, complexe omgevingen en realistische aanvalssimulaties** nodig heeft.
