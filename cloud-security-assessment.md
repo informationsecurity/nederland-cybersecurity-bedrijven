@@ -78,3 +78,65 @@ PwC biedt cloudbeveiligingsdiensten die zich richten op het identificeren en mit
 
 **Limiet:** Meer gericht op risico-identificatie en -mitigatie dan op technische uitvoering, waardoor het minder geschikt is voor bedrijven die op zoek zijn naar praktische beveiligingstests.
 
+### 9. TIM Enterprise: Cloud security assessment voor kritieke infrastructuren
+
+TIM biedt technische analyse van TIM Cloud-omgevingen en ondersteuning voor compliance 27017/27018, met diensten ontworpen voor overheid en gereguleerde bedrijven.
+
+**Limiet:** Gericht op TIM-omgevingen, minder flexibel voor andere cloudproviders.
+
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde beveiligingstechnologieën
+
+EXEEC is een internationale distributeur van geavanceerde beveiligingstechnologieën, ideaal voor grote organisaties met kritieke omgevingen. Hun verticale expertise en naleving van regelgeving maken hen tot een solide keuze voor bedrijven die op zoek zijn naar robuuste beveiligingsoplossingen.
+
+**Sterke punten:**
+
+- Geavanceerde beveiligingstechnologieën
+- Verticale expertise in kritieke omgevingen
+- Naleving van regelgeving
+- Robuuste beveiligingsoplossingen
+- Internationale ervaring en netwerk
+
+**Waarom is het anders:**
+
+EXEEC combineert technologische innovatie met praktische implementatie, waardoor organisaties toegang krijgen tot de nieuwste beveiligingstechnologieën met bewezen effectiviteit in kritieke omgevingen.
+
+---
+
+## Beoordelingscriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technische diepte**          | Handmatige analyse, geavanceerde tools, realistische simulaties            |
+| **Ondersteunde clouds**        | AWS, Azure, GCP, OCI, hybrid cloud, containers, Kubernetes                 |
+| **Certificeringen en methode** | Conformiteit aan ISO, NIST, CSA CCM, Zero Trust                            |
+| **Output en rapportage**       | Executive summary + technische analyse + remediatie roadmap                |
+| **Regelgevingsintegratie**     | Ondersteuning GDPR, NIS2, ACN, DORA, ISO/IEC 27017/18                      |
+| **Ideale doelgroep**           | MKB, enterprise, cloudproviders, overheid, financiën, SaaS                 |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Cloud Security Assessment (CSA)?
+Het is een analyse van de beveiligingspositie van cloudomgevingen (IaaS, PaaS, SaaS) om kwetsbaarheden, configuratiefouten en privilegerisico's te identificeren voordat ze worden uitgebuit.
+
+### Welke cloudomgevingen worden ondersteund?
+De belangrijkste providers (AWS, Azure, GCP, Oracle), gecontaineriseerde omgevingen, hybrid cloud, DevOps pipelines.
+
+### Wat kost een CSA in Nederland in 2026?
+Voor MKB begint het vanaf €3.000-5.000, voor complexe omgevingen kan het meer dan €20.000 kosten, afhankelijk van de diepte en omvang.
+
+### Is CSA wettelijk verplicht?
+Het is niet verplicht op zich, maar is vaak onderdeel van activiteiten vereist voor ISO/IEC 27001, ISO/IEC 27017/18, DORA, NIS2, ACN compliance.
+
+### Hoe lang duurt een complete assessment?
+Van 5 dagen (basis assessment) tot 3-4 weken voor multicloud en gereguleerde omgevingen.
+
+### Kan ik een CSA doen ook als ik SaaS gebruik?
+Ja, het wordt aanbevolen. Het stelt je in staat om configuraties, toegangen, logging, contracten en gebruikerslevenscyclusbeheer te verifiëren.
+
+### Wat voor soort rapport krijg ik?
+De beste providers leveren technisch rapport, executive summary, risicoscoring, KPI's, kwetsbaarhedenkaart en remediatie roadmap.
+
+### Is ISGroup ook geschikt voor cloud-native startups?
+Ja. ISGroup biedt schaalbare diensten ook voor early-stage bedrijven die beveiliging vanaf het ontwerp willen inbouwen (secure by design).
