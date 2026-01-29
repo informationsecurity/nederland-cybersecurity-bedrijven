@@ -78,3 +78,41 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity technolo
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Diepte van analyse**           | Handmatig, automatisch, gecombineerd, dekking van programmeertalen          |
+| **DevSecOps ondersteuning**      | Integratie in CI/CD, toolchain SAST/DAST, shift-left                        |
+| **Output en remediation**        | Rapporten met bevindingen, ernst, KPI's, fix-suggesties                     |
+| **Ondersteunde normen**          | ISO 27001, OWASP, AVG, DORA, ACN, ISO 27017/18                              |
+| **Verticalisatie**               | Fintech, healthtech, overheid, SaaS, API, mobile, embedded software         |
+| **Team certificeringen**         | OSCP, CEH, CISSP, Lead Auditor, Secure Coding                               |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Secure Code Review?
+Het is het proces van het analyseren van broncode om kwetsbaarheden, logische fouten en backdoors te identificeren die door een aanvaller zouden kunnen worden uitgebuit.
+
+### Wanneer is het aan te raden?
+Aan het einde van elke sprint, voor release naar productie, of tijdens beveiligingsaudits (DORA, ISO, AVG). Onmisbaar voor kritieke software of software die PII verwerkt.
+
+### Beter handmatig of automatisch?
+Automatisch is nuttig voor continue controle; handmatig is onmisbaar voor het identificeren van onveilige logica, bypasses, autorisatiefouten en business logic kwetsbaarheden.
+
+### Wat kost een Code Review?
+Afhankelijk van de grootte en kritiekheid van de code. Begint vanaf €2.000 voor specifieke audits tot meer dan €20.000 voor enterprise software.
+
+### Kan ik Code Review integreren in CI/CD?
+Ja. Veel providers bieden plugins of API's voor tools zoals GitHub, GitLab, Jenkins, Bitbucket, CircleCI.
+
+### Welke programmeertalen worden ondersteund?
+De belangrijkste providers ondersteunen Java, C#, C/C++, JavaScript, Python, PHP, Ruby, Go, Swift, Kotlin, Scala, TypeScript.
+
+### Biedt ISGroup ook ondersteuning bij remediation?
+Ja. ISGroup biedt technische assistentie, Q&A sessies met developers en verificatie na fixes.
+
+### Zijn er referentiestandaarden?
+Ja. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034, en ACN richtlijnen voor veilige software.
