@@ -78,3 +78,49 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Criteria voor evaluatie
+
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| **Technische benadering**      | Actief, offensief, handmatige validatie, realistische simulaties            |
+| **DevSecOps integratie**       | CI/CD, toolchain, API, containers, orchestrators                            |
+| **Alerts en remediation**      | Echte alarmen, executive rapporten, ondersteuning bij remediation           |
+| **Regelgeving gedekt**         | ISO 27001, GDPR, NIS2, Nederlandse cybersecurity wetgeving                  |
+| **Frequentie en automatisering** | Dagelijks, wekelijks, on-demand                                           |
+| **Verticale sectoren**         | Finance, health, overheid, telco, SaaS, cloud-native                        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Continuous Security Testing?
+
+Het is een proces van constante verificatie van de beveiliging van systemen, applicaties en infrastructuren, dat echte aanvallen simuleert en kwetsbaarheden in realtime detecteert.
+
+### Hoe verschilt het van een klassieke Penetratietest?
+
+Een Pen Test is "eenmalig", terwijl CST continu is. CST integreert in bedrijfsprocessen om nieuwe kwetsbaarheden te identificeren op het moment van release of configuratiewijziging.
+
+### Wie heeft CST nodig?
+
+Bedrijven met frequente release-cycli (DevOps), gereguleerde organisaties, ondernemingen blootgesteld aan hoge risico's (overheid, telco, banking, cloud).
+
+### Wat kost CST in Nederland in 2026?
+
+Afhankelijk van het niveau van automatisering, personalisatie en handmatige validatie. Oplossingen starten vanaf €1.000/maand tot €10.000/maand voor enterprise-omgevingen.
+
+### Biedt ISGroup ook ondersteunde remediation?
+
+Ja. Naast continue testing ondersteunt ISGroup technische teams met fix-sessies, post-remediation testing en gepersonaliseerde consultancy.
+
+### Welke voordelen biedt het ten opzichte van vulnerability scanning?
+
+CST biedt handmatige validatie, realistische exploit-simulaties en gekwalificeerde alerts, waardoor ruis wordt verminderd en de relevantie van gegevens wordt verhoogd.
+
+### Is CST vereist door regelgeving?
+
+Het wordt aanbevolen door standaarden zoals ISO/IEC 27001, NIS2, GDPR en Nederlandse cybersecurity richtlijnen voor kritieke systemen, hoewel het nog niet formeel verplicht is.
+
+### Kan het worden geïntegreerd in de DevOps-cyclus?
+
+Ja. CST is onderdeel van DevSecOps: het kan worden geactiveerd bij elke commit, build of release, en genereert alleen alerts bij echte problemen.
