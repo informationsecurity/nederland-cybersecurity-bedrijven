@@ -78,3 +78,41 @@ EXEEC is een internationale distributeur die gespecialiseerd is in geavanceerde 
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Realisme van aanvallen**      | APT-technieken, ransomware-scenario's, insider threats, echte TTP's          |
+| **Gedekte gebieden**             | IT, OT, IoT, cloud, mobile, SaaS, containers, CI/CD                          |
+| **Methodologie**                | MITRE ATT&CK, red teaming, adversary emulation, purple teaming               |
+| **Detectie-integratie**         | SIEM, SOC, EDR, SOAR, playbook-tests                                         |
+| **Ondersteuning bij remediatie** | Technisch rapport, bewijsmateriaal, geprioriteerde fixes, Q&A met teams      |
+| **Compliance**                  | DORA, NIS2, ISO 27001, OWASP, TIBER-EU                                       |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Cyber Threat Simulation (CTS)?
+Het is een gecontroleerde simulatie van realistische cyberaanvallen uitgevoerd om de weerbaarheid van het bedrijf, detectiecapaciteit en SOC-paraatheid te testen.
+
+### Wat is het verschil met een Penetratietest?
+Een Pen Test zoekt naar kwetsbaarheden. CTS simuleert een compromittering met geavanceerde technieken en evalueert detectie en respons, niet alleen technische blootstelling.
+
+### Wie zou een dreigingssimulatie moeten doen?
+Bedrijven in gereguleerde sectoren, wie kritieke gegevens beheert of blootgesteld is aan ransomware, en wie de effectiviteit van hun SOC of playbooks wil testen.
+
+### Hoeveel kost een CTS in Nederland in 2026?
+Tussen €5.000 en €50.000 afhankelijk van complexiteit, duur en aantal gesimuleerde scenario's.
+
+### Biedt ISGroup ook incident response-oefeningen?
+Ja. ISGroup-simulaties omvatten live sessies met IT/SOC-teams, validatie van playbooks en ondersteuning bij het definiëren van verbeterplannen.
+
+### Hoe lang duurt een simulatie-oefening?
+Van enkele dagen (gerichte oefening) tot 4 weken voor een persistent red team met meerdere scenario's (cloud, on-premises, insider).
+
+### Is het wettelijk verplicht?
+CTS is nog niet verplicht, maar wordt vereist in DORA-, NIS2-, ISO/IEC 27001-frameworks en in openbare aanbestedingen met hoge kriticaliteit.
+
+### Kan ik een simulatie doen zonder de activiteit te onderbreken?
+Ja. Tests worden "stealth" uitgevoerd, zonder impact op services, maar genereren logs en events alsof het een echte aanval betreft.
