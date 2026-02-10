@@ -78,3 +78,38 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Reactietijd**                  | 24/7, gegarandeerde SLA's, remote/on-site interventie                       |
+| **Forensische capaciteiten**     | Bewijsverzameling, juridische geldigheid, chain of custody                  |
+| **Gedekte gebieden**             | Endpoint, server, mobile, cloud, OT, SaaS, containers                       |
+| **Certificeringen**              | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                         |
+| **Post-incident ondersteuning**  | Recovery, hardening, communicatie, normatieve rapportage                    |
+| **Verticale sectoren**           | Finance, health, overheid, cloud, productie, energie                        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is DFIR?
+DFIR (Digital Forensics & Incident Response) is het geheel van praktijken om te reageren op, analyseren en oplossen van IT-incidenten, waarbij bewijs wordt verzameld en de aanval wordt gereconstrueerd.
+
+### Wanneer is het nodig?
+Onmiddellijk na een aanval (ransomware, phishing, datalek), tijdens een verdachte anomalie of voor post-incident audits.
+
+### Grijpt ISGroup ook in tijdens de nacht of in het weekend?
+Ja. De DFIR-service van ISGroup is 24/7 actief, met snelle escalatie en onmiddellijke ondersteuning, ook on-site.
+
+### Is het mogelijk om het bewijs juridisch te gebruiken?
+Ja, als het correct is verzameld. ISGroup garandeert chain of custody en gevalideerde verzameling.
+
+### Welke omgevingen worden gedekt?
+PC's, servers, cloud (AWS, Azure, GCP), SaaS, OT/ICS-netwerken, mobile, containers, backups.
+
+### Hoeveel kost een DFIR-interventie?
+Hangt af van de complexiteit en timing. Begint vanaf €3.000 voor basisonderzoeken tot meer dan €30.000 voor grootschalige incidenten of met regelgevingsimplicaties.
+
+### Is een cyber-verzekeringspolis nodig?
+Niet verplicht, maar aanbevolen. ISGroup werkt samen met verzekeraars om geldige forensische documentatie te verstrekken.
