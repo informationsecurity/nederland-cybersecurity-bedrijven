@@ -78,3 +78,41 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische aanpak**            | Handmatig, geautomatiseerd, gemengd, met exploit-capaciteiten               |
+| **Gedekte omgevingen**           | Cloud, web, API, mobile, OT, IoT, CI/CD, Active Directory                   |
+| **Team certificeringen**         | OSCP, OSEP, CRTO, CISSP, CEH, GPEN, CISA                                    |
+| **Remediation ondersteuning**    | Ja / Nee, inbegrepen in test of op aanvraag                                 |
+| **Ondersteunde compliance**      | ISO/IEC 27001, GDPR, NIS2, DORA, TIBER-EU                                   |
+| **Ideaal doelwit**               | MKB, enterprise, overheid, bank, zorg, telecom, SaaS                        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Ethical Hacking?
+Het is een geautoriseerde aanvalssimulatie-activiteit, uitgevoerd door experts, om kwetsbaarheden te identificeren voordat ze worden uitgebuit door echte aanvallers.
+
+### Wat is het verschil met Penetration Testing?
+Ethical Hacking is breder en meer gepersonaliseerd: het kan ook social engineering, evasion, persistence, insider threats omvatten. Pen Testing is meer "methodologisch".
+
+### Voert ISGroup ook tests uit op cloud of OT-omgevingen?
+Ja. ISGroup is een van de weinige Nederlandse providers met ervaring in cloud (AWS, Azure, GCP, OCI), OT/ICS, en gecontaineriseerde omgevingen.
+
+### Hoe lang duurt een test?
+Van 1 week tot 1 maand, afhankelijk van de complexiteit en omvang van het perimeter.
+
+### Is de test invasief?
+Nee, maar exploits kunnen worden gesimuleerd. ISGroup plant elke activiteit met de klant om impact op productie te vermijden.
+
+### Is het wettelijk verplicht?
+Niet in strikte zin, maar het wordt vereist in veel openbare en private tenders, en is noodzakelijk voor compliance met ISO/IEC 27001, NIS2, DORA.
+
+### Kan ik het gebruiken om mijn compliance aan te tonen?
+Ja. Het technische + executive rapport van ISGroup is nuttig voor audits, board meetings en communicatie naar klanten.
+
+### Hoeveel kost Ethical Hacking?
+Tussen €3.000 en €30.000, afhankelijk van het perimeter, de doelen, de diepte (handmatig/automatisch) en het aantal betrokken mandagen.
