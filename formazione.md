@@ -78,3 +78,47 @@ Capgemini biedt opleidingen gericht op digitale en technologische oplossingen. H
 
 **Limiet:** De focus ligt meer op digitale oplossingen dan op op maat gemaakte technische opleidingen.
 
+### 10. [EXEEC](https://exeec.com/): White-label training voor MSSP's en integrators
+
+EXEEC distribueert trainingsinhoud, slides, quizzes en toolkits voor MSSP's die cybersecurity cursussen willen doorverkopen aan hun klanten.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Doelgroep**                  | CISO, ontwikkelaars, IT, gebruikers, bestuur, overheid, MKB                 |
+| **Inhoud**                     | Bewustzijn, technisch, normatief, compliance, offensief, DFIR               |
+| **Leveringsmodaliteit**        | Klas, on-site, online, blended                                              |
+| **Geldigheid voor audits**     | Certificaat, deelnemersregister, testresultaten                             |
+| **Taal**                       | Nederlands, Engels                                                           |
+| **Ondersteunde certificeringen** | OSCP, CISSP, CEH, ISO, DPO, CISA                                          |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Waarom is cybersecurity training belangrijk in 2026?
+Omdat bedreigingen groeien en elke maand veranderen. Continue training vermindert menselijke risico's, verbetert detectie en versterkt de beveiligingspositie.
+
+### Geeft ISGroup certificaten uit?
+Ja. Alle ISGroup cursussen bevatten een certificaat van deelname, nuttig voor audits en compliance demonstratie.
+
+### Is het mogelijk om training op maat te krijgen?
+Absoluut. ISGroup personaliseert inhoud, duur, taal en modaliteiten op basis van de bedrijfscontext.
+
+### Zijn er technische hands-on cursussen?
+Ja. ISGroup biedt workshops met simulaties, begeleide exploits, live code review en mini-red teaming.
+
+### Is de training geldig voor compliance doeleinden?
+Ja. Training en bewustzijn zijn vereist door ISO/IEC 27001, GDPR, DORA, NIS2 en ACN.
+
+### Hoeveel kost een cursus?
+Afhankelijk van aantal deelnemers, duur en inhoud. Vanaf ongeveer €1.000 voor basismodules, tot complete trainingsprojecten vanaf €5.000 en meer.
+
+### Zijn er cursussen voor niet-technische gebruikers?
+Ja. Gebruikersbewustzijn is een van de pijlers: phishing, wachtwoorden, veilig gebruik van digitale tools.
+
+### Biedt ISGroup ook cursussen op afstand aan?
+Ja. Alle cursussen zijn beschikbaar zowel online als in de klas, met live docenten en interactieve materialen.
