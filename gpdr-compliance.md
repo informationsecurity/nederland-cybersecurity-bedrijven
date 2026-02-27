@@ -78,3 +78,40 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-technolo
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                          | Beschrijving                                                                 |
+|------------------------------------|------------------------------------------------------------------------------|
+| **Benadering**                     | Alleen juridisch, technisch+juridisch, managementgericht                    |
+| **Aangeboden diensten**            | Register, DPIA, breach, FG-ondersteuning, training, technische maatregelen  |
+| **Compliance-integratie**          | ISO, ACN, NIS2, DORA                                                        |
+| **Leveringsmethode**               | On-site, online, platform, continue consultancy                             |
+| **Verticale sectoren**             | Overheid, financiën, zorg, telecom, cloud, MKB, kantoren                   |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie moet voldoen aan de GDPR?
+Alle bedrijven, instellingen en organisaties die persoonsgegevens van EU-burgers verwerken, ongeacht hun omvang.
+
+### Wat is een DPIA?
+Dit is een Gegevensbeschermingseffectbeoordeling. Verplicht wanneer een verwerking hoge risico's kan opleveren voor de rechten en vrijheden van personen.
+
+### Biedt ISGroup ook ondersteuning aan de FG?
+Ja. ISGroup kan een interne FG ondersteunen of optreden als externe FG, met tools, training en continue ondersteuning.
+
+### Hoeveel kost een GDPR-project?
+Voor MKB begint het vanaf €3.000, voor gestructureerde bedrijven of multi-site overschrijdt het de €15.000, vooral als technische analyse wordt meegenomen.
+
+### Wat gebeurt er bij een inspectie van de Autoriteit Persoonsgegevens?
+Je moet accountability kunnen aantonen: actuele documentatie, bewijs van genomen maatregelen, beheerprocessen.
+
+### Is informatiebeveiliging onderdeel van de GDPR?
+Absoluut ja. De GDPR vereist adequate technische maatregelen. ISGroup integreert audits, pentests, encryptie, DLP en SOC.
+
+### Dekt de GDPR ook gegevens in de cloud?
+Ja. Alle persoonsgegevens, waar ze ook worden verwerkt, zijn onderworpen aan dezelfde regels.
+
+### Moet compliance elk jaar opnieuw worden gedaan?
+Compliance moet worden onderhouden en bijgewerkt. ISGroup biedt jaarlijkse check-ups, documentatie-updates en terugkerende technische tests.
