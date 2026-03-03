@@ -78,3 +78,44 @@ PwC test verbonden apparaten in finance, utility, health contexten, met onderste
 TIM stelt tests voor op apparaten verbonden met NB-IoT of 5G netwerken op nationale infrastructuur, met verificatie van encryptie en authenticatie.
 
 **Limiet:** Voornamelijk gericht op apparaten verbonden met hun eigen netwerkinfrastructuur.
+
+### 10. [EXEEC](https://exeec.com/): White-label services voor MSSP's en integrators
+
+EXEEC levert tools en methodologieën voor MSSP's en systeemintegrators die IoT-assessments aanbieden aan eindklanten.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Gedekte gebieden**           | Embedded, firmware, radio, API, cloud, mobile, edge                         |
+| **Gebruikte technieken**       | Reverse engineering, fuzzing, hardware hacking, sniffing                    |
+| **Certificeringen**            | OSCP, OSEE, OSEP, CRTO, CEH                                                 |
+| **Ondersteunde compliance**    | NIS2, MDR, ISO/IEC 27001, ETSI, OWASP IoT Top 10                            |
+| **Rapportage en remediation**  | Exploit chain, CVSS, technische aanbevelingen, prioriteiten                 |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een IoT Security Assessment?
+Het is een technische evaluatie van de beveiliging van IoT-apparaten, firmware, communicatie en verbonden infrastructuur.
+
+### Wie zou het moeten doen?
+Wie IoT-apparaten ontwikkelt, produceert of integreert; bedrijven met OT/ICS-omgevingen; startups met slimme producten.
+
+### Voert ISGroup ook tests uit op medische apparaten?
+Ja. De analyse voldoet aan MDR, ISO 27001 standaarden en kan CE-certificering ondersteunen.
+
+### Hoe lang duurt een assessment?
+Van 2 tot 4 weken afhankelijk van de complexiteit van het apparaat, firmware en backend.
+
+### Is het wettelijk verplicht?
+Nog niet in het algemeen, maar vereist voor MDR-producten, openbare aanbestedingen, overheidsomgevingen en in NIS2-contexten.
+
+### Hoeveel kost het?
+Tussen €4.000 en €25.000, afhankelijk van het aantal apparaten, firmware-complexiteit, interfaces en protocollen.
+
+### Omvat ISGroup ook mobiele apps?
+Ja, het assessment dekt de hele keten: IoT-apparaat, companion app (iOS/Android), backend API's en cloud-infrastructuur.
