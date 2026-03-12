@@ -78,3 +78,41 @@ Symantec stelt MAST voor als onderdeel van risicobeheer- en compliance-programma
 EXEEC levert mobile testing technologie voor MSSP's, systeemintegrators en bedrijven die de service willen aanbieden.
 
 ---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Ondersteunde platforms**       | iOS, Android, hybrid, PWA                                                   |
+| **Testtypes**                    | Statisch (SAST), Dynamisch (DAST), Runtime (RASP), API fuzzing              |
+| **Referentiestandaarden**       | OWASP MASVS, OWASP Mobile Top 10, GDPR, PCI DSS                             |
+| **Rapportage**                   | Gedetailleerd, executive, met remediation en bewijs                         |
+| **Tools**                        | Frida, Burp Suite, MobSF, jadx, Ghidra, custom scripts                     |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Mobile Application Security Test?
+Het is een technische analyse die de beveiliging van een mobiele app verifieert, inclusief kwetsbaarheden in code, gegevens, authenticatie, versleuteling en communicatie.
+
+### Test ISGroup ook de API's die verbonden zijn met de app?
+Ja. De aanpak is end-to-end: app, API's, backend, sessies, identiteit en cloud.
+
+### Is de test compatibel met MASVS en OWASP?
+Ja. Alle ISGroup-tests volgen de MASVS L1-L2 niveaus, OWASP Mobile Top 10, en ACN-standaarden.
+
+### Hoeveel kost een test voor een app?
+Tussen €3.500 en €12.000 afhankelijk van het aantal functionaliteiten, API's, platforms en vereiste technieken.
+
+### Is de test invasief? Kan het storingen veroorzaken?
+Nee. Alle activiteiten worden gesimuleerd in een gecontroleerde testomgeving. Mogelijkheid om te werken met speciale builds (test builds).
+
+### Hoe lang duurt het?
+Van 1 tot 3 weken afhankelijk van diepgang, features, backend en API's.
+
+### Kan het rapport gebruikt worden voor GDPR of PCI audits?
+Ja. Het ISGroup-rapport is gedetailleerd, traceerbaar en klaar voor auditors, CISO's, DPO's en tenders.
+
+### Bieden jullie ook retesting na patches aan?
+Ja. Dit is gratis inbegrepen binnen 30 dagen na de test, voor kritieke issues.
