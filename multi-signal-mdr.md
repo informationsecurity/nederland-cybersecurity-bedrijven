@@ -78,3 +78,37 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-technolo
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                      | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gedekte signalen**          | EDR, netwerk, identiteit, cloud, OT, e-mail                                 |
+| **Actieve respons**           | Playbooks, containment, escalatie, forensische snapshots                    |
+| **Detectie**                  | IOC, gedragsanalyse, anomalie, threat hunting                               |
+| **Ondersteunde compliance**   | ISO/IEC 27001, GDPR, DORA, NIS2                                             |
+| **Levering**                  | Volledig beheerd, co-beheerd, white-label                                   |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Multi-Signal MDR-dienst?
+Het is een beheerde detectie- en responsdienst die beveiligingssignalen uit meerdere bronnen (endpoints, netwerk, cloud, identiteit, etc.) integreert om geavanceerde bedreigingen te detecteren en erop te reageren.
+
+### Biedt ISGroup ook MDR voor cloud- en OT-omgevingen?
+Ja. De dienst dekt AWS-, Azure-, Google Cloud-omgevingen, OT/ICS-systemen en IoT-apparaten.
+
+### Is de dienst 24/7 beschikbaar?
+Ja. ISGroup opereert met een interne SOC die 24/7 actief is.
+
+### Hoeveel kost een Multi-Signal MDR?
+Dit hangt af van gebruikers, signalen, assets en gevraagde diensten. MKB-oplossingen vanaf ~€800/maand, enterprise vanaf €3.000/maand.
+
+### Kan ik MDR gebruiken voor compliance?
+Ja. ISGroup levert rapporten en documentatie voor NIS2, DORA, GDPR, ISO/IEC 27001.
+
+### Moet ik al EDR of SIEM hebben?
+Nee. ISGroup kan sensoriek (agents, collectors) leveren als onderdeel van de dienst.
+
+### Zijn threat hunting en playbooks inbegrepen?
+Ja. ISGroup omvat continue hunting, tuning en geautomatiseerde respons met voorgedefinieerde of aangepaste playbooks.
