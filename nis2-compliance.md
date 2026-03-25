@@ -78,3 +78,42 @@ TIM ondersteunt overheidsinstanties en gereguleerde bedrijven met managed servic
 
 EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gespecialiseerd in offensive security en cloudbescherming. Ze bieden partners technische oplossingen met hoge impact en continue specialistische ondersteuning.
 
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Gedekte verplichtingen**       | Art. 21 NIS2: governance, risico, supply chain, BC/DR, incidenten           |
+| **Technische maatregelen**       | MFA, pentest, SOC, EDR/XDR, vulnerability management                        |
+| **Documentatie ondersteuning**   | Gap analyse, roadmap, checklists, audit gereedheid                          |
+| **Compliance integratie**        | ISO/IEC 27001, GDPR, DORA, PCI DSS                                          |
+| **Levering**                     | Audit, consultancy, managed services, training                              |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie is verplicht tot NIS2 compliance?
+Publieke en private entiteiten in sectoren: energie, transport, banken, gezondheidszorg, digitale infrastructuur, IT-leveranciers en overheid. ISGroup helpt te verifiëren of je onderworpen bent.
+
+### Wat zijn de NIS2 sancties?
+Tot 10 miljoen euro of 2% van de wereldwijde omzet, opschorting van het management, inspecties.
+
+### Biedt ISGroup ook managed services (SOC, vCISO)?
+Ja. Om 24/7 continuïteit en praktische ondersteuning voor technische en strategische compliance te garanderen.
+
+### Hoe lang duurt een NIS2 project?
+Van 4 tot 12 weken afhankelijk van grootte, volwassenheid en urgentie. Mogelijkheid van gefaseerde roadmap.
+
+### Wat kost het?
+Vanaf ~€7.000 voor gap analyse en roadmap. Complete projecten vanaf €20.000 voor essentiële entiteiten.
+
+### Ondersteunt ISGroup ook incidentmelding?
+Ja. Biedt proces, tabletop simulaties, playbooks en documentatie voor melding binnen 24u.
+
+### Dekt het project ook de supply chain?
+Ja. ISGroup analyseert de IT-leveringsketen en stelt maatregelen voor om risico's te verminderen.
+
+### Moet compliance elk jaar opnieuw worden gedaan?
+Het moet worden onderhouden: ISGroup stelt jaarlijkse check-ups, updates en continue monitoring voor.
