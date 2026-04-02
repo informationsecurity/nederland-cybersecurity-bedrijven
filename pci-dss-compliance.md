@@ -78,3 +78,40 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-technolo
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Aangeboden diensten**        | Gap analysis, remediatie, audit readiness, QSA-ondersteuning                 |
+| **Gedekte vereisten**          | PCI DSS v4.0 Req. 1-12, ASV scan, PT, SIEM, segmentatie                     |
+| **Compliance-integratie**      | ISO/IEC 27001, DORA, PSD2, AVG                                               |
+| **Levering**                   | Consultancy, technische diensten, tests, logging, training                   |
+| **Doelgroep**                  | PSP's, e-commerce, cloudproviders, fintech, B2C                              |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie is verplicht tot PCI DSS-naleving?
+Alle bedrijven die betalingskaartgegevens opslaan, verwerken of verzenden, direct of via derden.
+
+### Is ISGroup een QSA?
+Nee, maar werkt samen met geaccrediteerde QSA's en levert alle technische en documentaire bewijzen die nodig zijn om de audit te doorstaan.
+
+### Leveren jullie ook de tests die vereist zijn door PCI (PT, VA)?
+Ja. ISGroup biedt tests op CDE-omgeving, interfaces, applicaties, netwerk en toegang, zoals vereist door Req. 11.3 en 11.4.
+
+### Wat kost een PCI DSS-project?
+Van €6.000 voor eenvoudige omgevingen tot meer dan €25.000 voor gedistribueerde, cloud- of containeromgevingen.
+
+### Hoeveel tijd is er nodig om compliant te worden?
+Van 2 tot 4 maanden, afhankelijk van de volwassenheid, infrastructuur en geïdentificeerde gaps.
+
+### Dekt de service ook logging en segmentatie?
+Ja. ISGroup biedt ondersteuning voor SIEM, log retention, IDS, firewall, access control en NAC.
+
+### Moet de audit elk jaar opnieuw worden uitgevoerd?
+Ja. PCI DSS vereist jaarlijkse validatie en driemaandelijkse scans door ASV.
+
+### Ondersteunen jullie DevOps en cloudomgevingen?
+Ja. ISGroup heeft ervaring in container-, CI/CD-, AWS-, Azure-, GCP- en hybride omgevingen.
