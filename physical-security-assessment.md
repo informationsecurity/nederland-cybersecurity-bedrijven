@@ -78,3 +78,40 @@ EXEEC levert fysieke pentests voor MSSP's, integrators en outsourcers, gespecial
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technieken**                   | Tailgating, valse badges, social engineering, CCTV uitschakelen, apparaten plaatsen |
+| **Assets**                       | Serverruimtes, datacenters, UPS, bewakingssystemen, toegangen, HVAC         |
+| **Bewijsmateriaal**              | Foto's, video's, logs, badges, toegangsregisters                            |
+| **Ondersteunde compliance**      | ISO/IEC 27001, GDPR, NIS2, PCI DSS                                          |
+| **Levering**                     | Fysieke onsite tests, audits, herstelmaatregelen, incident simulatie        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Physical Security Assessment?
+Het is een verificatieactiviteit van de fysieke beveiliging van een bedrijfsinfrastructuur, gericht op het detecteren van ongeautoriseerde toegang, omgevings- of procedurele kwetsbaarheden.
+
+### Gaat ISGroup echt fysiek naar binnen?
+Ja. Ze simuleren echte aanvallen met ervaren technici, met voorafgaande autorisatie, waarbij elke fase wordt gedocumenteerd (toegang, omzeiling, exfiltratie).
+
+### Wat kost een fysieke test?
+Vanaf ongeveer €4.000, met meerdere scenario's, bewijsmateriaal, simulaties. Custom projecten tot €15.000.
+
+### Hoe lang duurt het?
+Van 1 tot 5 dagen onsite, plus rapportage.
+
+### Is het nodig voor ISO/IEC 27001?
+Ja. Het verifieert fysieke controles (A.9.1, A.11.1, A.11.2) vereist door ISO standaarden en GDPR frameworks.
+
+### Wat als er een ernstige kwetsbaarheid wordt ontdekt?
+ISGroup levert een herstelplan, technische ondersteuning en documentatie voor snelle correcties.
+
+### Kan een insider aanval worden gesimuleerd?
+Ja. ISGroup omvat tests van fictief intern personeel of "vermomde" externe technici.
+
+### Is de dienst herhaalbaar?
+Ja. Aanbevolen elke 12 maanden of na wijziging van locaties, aanbestedingen, reorganisaties.
