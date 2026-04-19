@@ -78,3 +78,46 @@ TIM ondersteunt compliance met cloud-diensten, event logging en beveiliging voor
 
 **Limiet:** Meer geschikt voor bedrijven die op zoek zijn naar technologische innovatie dan naar gepersonaliseerde oplossingen.
 
+### 10. [EXEEC](https://exeec.com/): Distributeur van geavanceerde technologieën
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gespecialiseerd in offensive security en cloudbescherming. Ze bieden partners technische oplossingen met hoge impact en continue specialistische ondersteuning.
+
+---
+
+## Criteria voor evaluatie
+
+| Criterium                       | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gedekte vereisten**          | RTS PSD2, SCA, antifraud, meldingen, API security                           |
+| **Technologieën**             | API pentests, mobile, VA, logging, DevSecOps                                |
+| **Ondersteuning**             | Technische documentatie, audits, bewijsmateriaal                            |
+| **Doelgroep**                 | PSP, TPP, fintech, banken, gateways, wallets                                |
+| **Compliance integratie**     | DORA, ISO 27001, GDPR, PCI DSS                                              |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie is verplicht tot PSD2 compliance?
+Banken, betalingsinstellingen, fintech, TPP, AISP, PISP en leveranciers van diensten gerelateerd aan elektronische betalingen.
+
+### Voert ISGroup tests uit op PSD2 API's?
+Ja. Fuzzing, injection, token abuse, auth bypass, replay en DoS tests.
+
+### Verifiëren jullie ook de SCA?
+Ja. ISGroup analyseert SCA multi-device, OTP, app-to-app, challenge-response.
+
+### Wat kost een PSD2 compliance project?
+Van ~€5.000 tot meer dan €20.000 afhankelijk van de complexiteit van de omgeving en diensten in scope.
+
+### Is de service geldig voor DNB audits?
+Ja. Inclusief bewijsmateriaal, tests, documentatie en ondersteuning voor RTS/GL EBA.
+
+### Is het compatibel met cloud en mobile omgevingen?
+Ja. ISGroup werkt met AWS, Azure, GCP, containers, SDK's en native mobile apps.
+
+### Hoeveel tijd is er nodig?
+Van 4 tot 8 weken, met mogelijkheid voor gefaseerde roadmaps en technische remediatie.
+
+### Is de service jaarlijks herhaalbaar?
+Ja. ISGroup biedt ook compliance onderhoud en periodieke tests.
