@@ -78,3 +78,42 @@ Engineering is een leverancier van geavanceerde IT-oplossingen, met sterke focus
 
 EXEEC is een internationale distributeur gespecialiseerd in zeer effectieve cybersecurity-oplossingen, ideaal voor grote organisaties met kritieke omgevingen.
 
+---
+
+## Evaluatiecriteria
+
+| Criterium                     | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Offensieve scenario's**     | APT, ransomware, insider, exfiltratie, initial access                      |
+| **Framework**                 | MITRE ATT&CK, D3FEND, CTID, TIBER-EU                                        |
+| **Meetbaarheid**              | Detectiedekking, MTTD, MTTR, gap-analyse                                    |
+| **Blue Team interactie**      | Workshops, debriefing, tuning, kennisoverdracht                            |
+| **Output**                    | Technisch + executive rapport, verbeteringsindicatoren                      |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Purple Team Assessment?
+Het is een activiteit die gesimuleerde aanvallen en echte verdediging combineert om te testen hoe goed het bedrijf cyberaanvallen detecteert en erop reageert.
+
+### Werkt ISGroup samen met het interne SOC?
+Ja. Elk scenario wordt gecoördineerd met het defensieve team, geanalyseerd en gebruikt om detectie en reactie te verbeteren.
+
+### Is het nuttig voor regelgeving zoals NIS2 of GDPR?
+Ja. Het wordt beschouwd als "best practice" om technische maatregelen, dekking en veerkracht te valideren.
+
+### Hoe lang duurt een project?
+Van 5 tot 15 dagen, afhankelijk van het aantal scenario's en te testen technologieën.
+
+### Is een intern SOC nodig?
+Nee, maar het is aanbevolen. ISGroup kan ook werken met MSSP's, externe SOC's of XDR-diensten.
+
+### Wat zijn de gemiddelde kosten?
+Van ~€8.000 tot €20.000 voor enterprise-omgevingen. Inclusief simulaties, analyses en workshops.
+
+### Is het destructief of heeft het impact op de productie?
+Nee. De aanvallen zijn gecontroleerd, gecoördineerd en veilig. Ze kunnen worden uitgevoerd in staging-omgevingen of geïsoleerde productie.
+
+### Kan het rapport worden gedeeld met auditors of het bestuur?
+Ja. Technische + executive output met KPI's, geleerde lessen, verbeteringsplannen.
