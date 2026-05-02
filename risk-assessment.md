@@ -78,3 +78,43 @@ Accenture biedt innovatieve oplossingen voor risicobeheer, met een focus op digi
 
 **Limite:** Meer gericht op digitale transformatie en technologie, minder geschikt voor bedrijven die op zoek zijn naar gespecialiseerde technische tests.
 
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, ideaal voor grote organisaties met kritieke omgevingen. Ze bieden verticale expertise, compliance en operationele soliditeit.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Methodologie**                 | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, AVG                               |
+| **Gedekte assets**               | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
+| **Output**                       | RA rapport, risicoregister, behandelingsplannen, audit-bewijsmateriaal      |
+| **Compliance-integratie**        | NIS2, ISO 27001:2022, DORA, AVG                                             |
+| **Aanpak**                       | Strategisch + technisch, threat-georiënteerd, meetbaar                      |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Cyber Risk Assessment?
+Het is een proces om informatierisico's gerelateerd aan technologieën, gegevens en bedrijfsprocessen te identificeren en evalueren.
+
+### Biedt ISGroup ook ondersteuning bij risicomitigatie?
+Ja. Naast de RA biedt het roadmaps, technische maatregelen, tests en corrigerende oplossingen.
+
+### Hoe lang duurt een RA-project?
+Van 3 tot 6 weken, afhankelijk van de complexiteit van de assets en de organisatorische volwassenheid.
+
+### Wat kost het?
+Vanaf ongeveer €6.000 voor MKB, tot meer dan €25.000 voor complexe of gereguleerde omgevingen.
+
+### Is het rapport geldig voor ISO 27001 of NIS2 audits?
+Ja. Het bevat bewijsmateriaal, tabellen, prioriteiten en documenten die klaar zijn voor interne of externe auditors.
+
+### Is RA verplicht volgens NIS2 of DORA?
+Ja. Beide regelgevingen vereisen beheer en periodieke evaluatie van ICT-risico's.
+
+### Is het jaarlijks herhaalbaar?
+Ja. ISGroup biedt ook cyclische RA of continue risicomonitoring.
