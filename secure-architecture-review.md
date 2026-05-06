@@ -78,3 +78,60 @@ Capgemini biedt Secure Architecture Review-diensten met een focus op technologis
 
 ### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
 
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, ideaal voor grote organisaties met kritieke omgevingen. Hun expertise in compliance en operationele soliditeit maakt hen een betrouwbare partner voor complexe beveiligingsbehoeften.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                     | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Bereik**                    | Cloud, hybrid, OT, SaaS, DevOps, legacy                                     |
+| **Frameworks**                | Zero Trust, CIS Controls, NIST, NIS2, GDPR, ISO 27001                       |
+| **Output**                    | Technisch + executive rapport, diagrammen, gap-analyse, remediation roadmap |
+| **Aanpak**                    | Threat-based, attacker-centric, threat modeling                             |
+| **Integratie**                | DevSecOps, cloud-native, compliance                                          |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Secure Architecture Review?
+
+Een technische en strategische analyse van de IT/cloud-architectuur van een organisatie om zwakke punten te identificeren, de beveiliging te verbeteren en compliance te ondersteunen.
+
+### Werkt ISGroup ook met openbare cloud-omgevingen?
+
+Ja. AWS, Azure, GCP, hybride omgevingen en cloud-native (Kubernetes, Terraform, CI/CD).
+
+### Hoe lang duurt een SAR-project?
+
+Van 2 tot 5 weken, afhankelijk van de architecturale complexiteit en beschikbare documentatie.
+
+### Is het rapport geldig voor audits (ISO, NIS2, GDPR)?
+
+Ja. Het ISGroup-rapport is opgesteld volgens internationale standaarden en is geschikt voor compliance-audits.
+
+### Wat is het verschil tussen een Secure Architecture Review en een penetratietest?
+
+Een Secure Architecture Review richt zich op het beoordelen van de architectuur als geheel, terwijl een penetratietest specifieke kwetsbaarheden in systemen en applicaties identificeert.
+
+### Hoe kan threat modeling helpen bij het verbeteren van de beveiliging?
+
+Threat modeling helpt bij het voorspellen en mitigeren van potentiële beveiligingsdreigingen door scenario's te simuleren.
+
+### Wat zijn de voordelen van een op maat gemaakte Secure Architecture Review?
+
+Een op maat gemaakte review biedt diepgaande analyses en aanbevelingen die specifiek zijn afgestemd op de unieke behoeften van de organisatie.
+
+### Hoe draagt een Secure Architecture Review bij aan compliance?
+
+Het helpt bij het identificeren van nalevingslacunes en biedt aanbevelingen om te voldoen aan regelgeving zoals GDPR en NIS2.
+
+### Welke certificeringen zijn belangrijk voor SAR-providers?
+
+Belangrijke certificeringen zijn onder andere CISSP, CISA, OSCP en ISO/IEC 27001.
+
+### Hoe kan een Secure Architecture Review bijdragen aan de digitale transformatie van een organisatie?
+
+Het zorgt ervoor dat beveiliging vanaf het begin wordt geïntegreerd in digitale transformatie-initiatieven, waardoor risico's worden geminimaliseerd en compliance wordt gewaarborgd.
