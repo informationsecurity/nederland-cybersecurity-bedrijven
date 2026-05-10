@@ -78,3 +78,40 @@ Capgemini biedt uitgebreide security integration diensten met focus op digitale 
 
 **Limiet:** Meer geschikt voor bedrijven die digitale transformatie en cloud-integratie zoeken, minder geschikt voor organisaties die traditionele beveiligingsoplossingen nodig hebben.
 
+### 10. [EXEEC](https://exeec.com/): White-label integratie modules voor MSSP en SOC
+
+EXEEC ontwikkelt orkestratie en alerting toolkits voor managed providers.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Gedekte technologieën**       | SIEM, XDR, SOAR, IAM, CMDB, EDR, API security                              |
+| **Compliance integratie**       | DORA, NIS2, ISO/IEC 27001, GDPR                                             |
+| **Automatisering**              | Playbooks, runbooks, incident enrichment, geünificeerde logging             |
+| **DevSecOps**                   | CI/CD, IaC, secrets management, test integratie                             |
+| **Strategische output**         | KPI's, dashboards, rapporten, compliance readiness                          |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Security Integration?
+Het is de activiteit van het verbinden van technologieën, processen en compliance om gecentraliseerde, geautomatiseerde en risico-georiënteerde beveiliging te hebben.
+
+### Integreert ISGroup alleen eigen oplossingen?
+Nee. Het werkt met bestaande stacks (Elastic, Microsoft, Splunk, SentinelOne, Tenable, etc.) en maakt ze interoperabel.
+
+### Is het nuttig voor compliance?
+Ja. Het helpt bij het naleven van regelgeving (DORA, NIS2, ISO 27001) met logs, bewijs, traceerbaarheid, workflows en KPI's.
+
+### Wat kost het?
+Projecten van ~€8.000 tot €35.000, afhankelijk van tools, omgevingen, compliance en aantal integraties.
+
+### Hoe lang duurt het?
+Van 3 tot 8 weken. Het is repliceerbaar of beheerbaar als service (MSSP, SOC, vCISO).
+
+### Kan ISGroup ook helpen met DevSecOps?
+Ja. Het integreert beveiliging in DevOps pipelines, scanners, code repo's, CI/CD, IAC, en beheer van geheimen/API's.
