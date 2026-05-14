@@ -78,3 +78,40 @@ KPN Security biedt SOC-diensten met Nederlandse telecom-expertise en lokale onde
 ### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde beveiligingstechnologieën
 
 EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, ideaal voor grote organisaties met kritieke omgevingen. Ze bieden verticale expertise, naleving en operationele soliditeit.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technologieën**                | SIEM, SOAR, XDR, EDR, threat hunting, TIP                                   |
+| **Gedekte omgevingen**           | IT, OT, cloud, SaaS, DevOps, overheid, fintech, telecom                    |
+| **Compliance**                   | NIS2, ISO/IEC 27001, GDPR, lokale regelgeving                               |
+| **Aangeboden diensten**          | Detectie, incidentrespons, DFIR, hunting, dashboard, forensics              |
+| **Flexibiliteit**                | SOC-as-a-Service, hybrid SOC, MDR, specifieke verticalisaties               |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een SOC-as-a-Service?
+Een beheerde dienst die continue monitoring van beveiligingsgebeurtenissen, alertbeheer, incidentrespons en compliance-ondersteuning biedt.
+
+### Biedt ISGroup ook incidentondersteuning?
+Ja. Met DFIR-dienst (Digital Forensics and Incident Response), onderzoeksondersteuning, juridische en communicatieondersteuning.
+
+### Wat kost een SOC?
+Van ~€1.500/maand voor MKB, tot €15.000/maand voor complexe en gereguleerde omgevingen.
+
+### Hoe lang duurt de activering?
+Van 2 tot 6 weken. ISGroup biedt gepersonaliseerde onboarding en tuning.
+
+### Is het nuttig voor NIS2 of GDPR?
+Ja. SOC is vereist voor detectie, respons, logging, bewijs en veerkracht.
+
+### Biedt ISGroup dashboards en rapporten?
+Ja. CISO, SOC Manager, Executive dashboards. Inclusief KPI's en belangrijke incidenten.
+
+### Is het integreerbaar met DevSecOps of cloud-native omgevingen?
+Ja. ISGroup SOC ondersteunt integratie op AWS, Azure, CI/CD, GitLab, containers, API's.
