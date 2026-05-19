@@ -78,3 +78,34 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurityoplossing
 
 ---
 
+## Criteria voor evaluatie
+
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| **Gesimuleerde technieken**     | Phishing, smishing, vishing, impersonation, pretexting                      |
+| **Doelgroepen**                 | Executive, IT, helpdesk, juridisch, finance, cloud gebruikers               |
+| **Realisme**                    | Portal cloning, MFA bypass, stapsgewijze escalatie                          |
+| **Meetbaarheid**                | Click rates, compromittering, gemiddelde tijd, escalatie, bewustzijn        |
+| **Compliance**                  | ISO 27001, NIS2, GDPR                                                       |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Social Engineering Assessment?
+Een gesimuleerde test om de kwetsbaarheid van mensen voor manipulatietechnieken te evalueren, vergelijkbaar met die gebruikt door echte aanvallers.
+
+### Simuleert ISGroup ook telefoongesprekken of fysieke scenario's?
+Ja. Inclusief vishing, impersonation van leveranciers, audits, technici, bezorgers, CEO fraud.
+
+### Wat kost een project?
+Van ~€3.000 voor eenvoudige phishing campagnes, tot €20.000 voor geavanceerde scenario's met meerdere vectoren.
+
+### Is het legaal?
+Ja. Alle activiteiten zijn geautoriseerd en gesimuleerd op een gecontroleerde manier.
+
+### Is het nuttig voor regelgeving (NIS2, GDPR)?
+Ja. Het verifieert de menselijke component van controles en toont bewustzijn en training aan.
+
+### Hoe lang duurt een campagne?
+Van 1 tot 3 weken, met mogelijkheid voor cyclische tests of geïntegreerde training.
