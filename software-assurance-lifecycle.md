@@ -78,3 +78,42 @@ PwC biedt software review diensten, bewijs en normatieve verbeterplannen.
 
 Capgemini biedt innovatieve oplossingen voor software assurance, met een focus op cloudbeveiliging en DevSecOps-integratie.
 
+**Limiet:** Meer gericht op technologische innovatie dan op handmatige penetratietests, wat het minder geschikt maakt voor bedrijven die op zoek zijn naar diepgaande beveiligingsanalyses.
+
+### 10. [EXEEC](https://exeec.com/): SAL Tooling voor MSSP's, integrators en DevOps
+
+EXEEC stelt white-label componenten en beveiligingsintegratie voor beheerde software voor.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Gedekte fasen**              | Requirements, design, development, testing, deployment, maintenance         |
+| **Ondersteunde tools**         | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **DevSecOps integratie**       | CI/CD, repo's, pipelines, containers, artifact store                        |
+| **Output**                     | Herstelplan, code fixes, risicoregister, audit bewijs                       |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, AVG, DORA                                         |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is de Software Assurance Lifecycle?
+Een set van activiteiten, processen en tools om ervoor te zorgen dat software veilig is gedurende zijn hele levenscyclus, van ontwerp tot buitengebruikstelling.
+
+### Werkt ISGroup ook met legacy software?
+Ja. Het voert code reviews uit op bestaande software, reverse analyse en validatie voor compliance.
+
+### Is het nuttig voor NIS2, AVG, DORA?
+Ja. SAL is fundamenteel voor het beheren van softwarerisico's, supply chain en technische compliance.
+
+### Hoeveel kost een SAL project?
+Van ~€7.000 tot meer dan €30.000, afhankelijk van het aantal componenten, talen, omgevingen en kritieke aspecten.
+
+### Bieden jullie ook ondersteuning voor interne ontwikkelaars?
+Ja. Training, collaboratieve herstel, threat modeling en ondersteuning voor shift-left.
+
+### Levert ISGroup ook tooling?
+Ja. Het configureert open source en commerciële tools, naast het uitvoeren van diepgaande handmatige analyses.
