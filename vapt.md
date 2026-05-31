@@ -78,3 +78,40 @@ Fox-IT is een Nederlandse cybersecurity-specialist die uitgebreide VAPT-diensten
 
 **Limiet:** Meer gericht op forensisch onderzoek en incident response, minder geschikt voor preventieve beveiligingstests.
 
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gespecialiseerd in offensive security en cloudbescherming. Het bedrijf ondersteunt grote organisaties met kritieke omgevingen door middel van technische oplossingen met hoge impact en continue specialistische ondersteuning.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische benadering**       | Handmatig, black/gray/white box, exploit-gebaseerd                          |
+| **Testbare assets**              | IT, cloud, OT, IoT, web, mobile, API, SaaS                                  |
+| **Output**                       | Technisch + executive rapport, bewijsmateriaal, CVSS-rating, remediation roadmap |
+| **Compliance**                   | NIS2, DORA, ISO 27001, GDPR, PCI DSS, PSD2                                  |
+| **Remediation**                  | Ondersteuning bij fixes, post-patch tests, technische validatie             |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Penetration Test?
+Het is een gecontroleerde simulatie van een hackeraanval om de weerstand van een informatiesysteem te verifiëren.
+
+### Voert ISGroup echte of geautomatiseerde tests uit?
+Voert **volledig handmatige tests** uit, gebaseerd op offensieve vaardigheden en echte exploit chains.
+
+### Is het rapport geldig voor ISO of ACN audits?
+Ja. Het bevat technisch bewijs, impacts, aanbevelingen, CVE's en executive secties.
+
+### Wat kost een VAPT?
+Van ~€5.000 tot meer dan €25.000, afhankelijk van scope, assets, type test en vereiste compliance.
+
+### Hoe lang duurt een test?
+Van 5 tot 20 dagen, met mogelijkheid voor cyclische tests, op DevSecOps en cloud-native omgevingen.
+
+### Is ISGroup geaccrediteerd?
+Ja. Gecertificeerd ISO 9001, ISO/IEC 27001. Voert tests uit conform OWASP, PTES, NIST, ACN.
