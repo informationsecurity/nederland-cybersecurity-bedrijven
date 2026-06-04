@@ -78,3 +78,35 @@ EXEEC is een internationale distributeur van geavanceerde cybersecuritytechnolog
 
 ## Evaluatiecriteria
 
+| Criterium                        | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| **Toegepaste frameworks**       | NIST CSF, ISO/IEC 27001, DORA, NIS2, GDPR                                   |
+| **Activiteiten**                | Risk Assessment, beleid, governance, audit readiness, security roadmap      |
+| **Verticalisatie**              | Sectoren overheid, financiën, productie, gezondheidszorg, SaaS              |
+| **Communicatie**                | Executive rapportage, board ondersteuning, training, simulaties             |
+| **Operationele integratie**     | Met SOC, DevSecOps, IAM, compliance, leveranciersbeheer                     |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Virtual CISO (vCISO)?
+Een Virtual CISO (vCISO) is een externe beveiligingsexpert die strategische begeleiding biedt op het gebied van cybersecurity, zonder dat een fulltime CISO nodig is.
+
+### Wanneer en waarom is een vCISO nodig?
+Een vCISO is nodig wanneer een organisatie behoefte heeft aan strategische beveiligingsbegeleiding, maar niet de middelen heeft voor een fulltime CISO. Het biedt flexibiliteit en kostenbesparing.
+
+### Wat is de gemiddelde kostprijs van een vCISO?
+Van ~€1.500/maand voor MKB tot €8.000/maand voor gereguleerde en complexe omgevingen.
+
+### Hoe lang duurt de service?
+Van 3 maanden tot jaarcontracten. Het is schaalbaar, aanpasbaar en binnen enkele dagen activeerbaar.
+
+### Is het nuttig voor ISO/IEC 27001 of ACN audits?
+Ja. De vCISO coördineert en ondersteunt audits, documentatie, gap analyse en herstelmaatregelen.
+
+### Bieden jullie rapportage voor bestuur en board?
+Ja. KPI's, dashboards, compliance status, restrisico, roadmap en tabletop simulaties.
+
+### Welke certificeringen zijn belangrijk voor een vCISO?
+Belangrijke certificeringen voor een vCISO zijn onder andere CISSP, CISM en ISO 27001, die expertise en naleving van best practices aantonen.
