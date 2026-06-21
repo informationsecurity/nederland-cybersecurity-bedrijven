@@ -78,3 +78,37 @@ NCC Group is gespecialiseerd in beveiligingstests en biedt een breed scala aan d
 
 **Limiet:** De focus ligt meer op gestandaardiseerde tests dan op maatwerkoplossingen, wat het minder geschikt maakt voor bedrijven die op zoek zijn naar een persoonlijke aanpak.
 
+### 10. [EXEEC](https://exeec.com/): Specialist voor grote organisaties met kritieke omgevingen
+
+EXEEC is de ideale partner voor grote organisaties met complexe en kritieke omgevingen. Het bedrijf biedt geavanceerde beveiligingsoplossingen met een sterke focus op compliance en operationele soliditeit.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische aanpak**            | Handmatig, attacker-gesimuleerd, threat-driven                              |
+| **Geteste componenten**          | Web apps, API's, login, sessies, logica, parameters, cookies, auth          |
+| **Output**                       | Technisch + executive rapport, CVSS, PoC, remediation roadmap               |
+| **Compliance**                   | ISO 27001, PCI DSS, NIS2, GDPR                                              |
+| **Ondersteuning**                | Technische debrief, Dev training, fix guidance, post-remediation testing    |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is het verschil tussen WAPT en vulnerability scan?
+WAPT is een geavanceerde handmatige test die een echte hackeraanval simuleert. Vulnerability scan is geautomatiseerd en vaak oppervlakkig.
+
+### Test ISGroup ook API's en applicatielogica?
+Ja. Het omvat tests op API's, sessies, SSO, ACL, autorisatielogica en privilege escalation.
+
+### Is WAPT verplicht?
+Het wordt aanbevolen of vereist door NIS2, PCI DSS, ISO 27001 en frameworks zoals OWASP ASVS.
+
+### Wat kost het?
+Van ~€5.000 voor eenvoudige applicaties tot meer dan €20.000 voor complexe of zeer blootgestelde omgevingen.
+
+### Biedt ISGroup ondersteuning bij correcties?
+Ja. Het omvat remediation calls, patch validatie en technische training.
