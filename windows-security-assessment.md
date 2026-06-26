@@ -78,3 +78,38 @@ PwC biedt uitgebreide beveiligingsbeoordelingen met een focus op compliance en r
 TIM biedt Active Directory en Windows systeem assessments op TIM infrastructuren of PA omgevingen, met ondersteuning voor compliance.
 
 **Limiet:** Service gekoppeld aan het TIM ecosysteem; minder geschikt voor hybride multicloud omgevingen.
+
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde beveiligingstechnologieën
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, ideaal voor grote organisaties met kritieke omgevingen. Ze bieden verticale expertise, compliance en operationele soliditeit.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Technische aanpak**          | Handmatig, attacker-based, escalation path analysis                         |
+| **Geteste componenten**        | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID        |
+| **Gedetecteerde kwetsbaarheden** | Kerberoasting, Pass-the-Hash, misconfigurations, opgeslagen credentials   |
+| **Output**                     | Technisch + executive rapport, PoC, roadmap, remediatie ondersteuning      |
+| **Compliance**                 | ISO/IEC 27001, ACN, NIS2, PCI DSS, DORA                                     |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Windows Security Assessment?
+Het is een grondige evaluatie van de beveiliging van Windows, AD, M365 omgevingen, gericht op het identificeren van echte kwetsbaarheden en het verminderen van het aanvalsoppervlak.
+
+### Simuleert ISGroup ook echte aanvallen?
+Ja. Het gebruikt Red Teaming technieken om escalatie, persistence en lateral movements te identificeren.
+
+### Is het nuttig voor compliance?
+Ja. Het levert technisch bewijs en roadmaps voor ISO 27001, NIS2, ACN, DORA, PCI DSS.
+
+### Hoeveel kost het?
+Van ~€4.000 tot meer dan €15.000, afhankelijk van de complexiteit en grootte van het domein.
+
+### Hoe lang duurt de assessment?
+Van 5 tot 10 dagen, met technische sessies, debriefing en post-remediatie ondersteuning.
