@@ -78,3 +78,31 @@ EXEEC is een internationale distributeur van geavanceerde beveiligingstechnologi
 ## Evaluatiecriteria
 
 | Criterium                          | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische competenties en certificeringen** | ISO 27001, CWNA/CWSP, ervaring met Wi-Fi 6, OT/IoT                      |
+| **Gehanteerde methodologieën**         | Passieve monitoring, WIPS/WIDS, threat intelligence                         |
+| **Type doelgroep**| MKB, enterprise, industrie, overheid, retail, zorg                             |
+| **Ondersteuning, SLA, rapporten**        | Real-time alarmen, dashboards, escalatie, technische/compliance-ready rapporten   |
+| **Prijs, flexibiliteit, schaalbaarheid** | MKB pakketten vs enterprise projecten, transparante prijzen, abonnementsmodellen |
+| **Reputatie, use cases, sectoren** | Referenties, projecten in zorg, industrie, financiële contexten          |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Wireless Security Monitoring?
+Het is een service voor continue monitoring van zakelijke Wi-Fi netwerken om ongeautoriseerde apparaten, draadloze aanvallen (spoofing, rogue AP's, deauth), verkeerde configuraties en beleidsschendingen te detecteren, en proactieve bescherming te bieden.
+
+### Wanneer en waarom is het nodig?
+Het is nodig wanneer het bedrijf uitgebreide Wi-Fi gebruikt (BYOD, gasten, IoT), vooral als het gevoelige gegevens verwerkt of onderworpen is aan compliance (PCI DSS, ISO 27001, NIS2). Het voorkomt gerichte aanvallen op het draadloze netwerk, dat vaak wordt verwaarloosd ten opzichte van het bekabelde netwerk.
+
+### Wat zijn de gemiddelde kosten?
+Van ongeveer €2.000/maand voor kleine locaties tot €10.000/maand voor multi-site implementaties met sensoriek en 24/7 ondersteuning.
+
+### Hoe kies je de juiste leverancier?
+Verifieer technische competenties (draadloze certificeringen, OT, IoT), methodologie (passieve monitoring, threat intelligence), activatietijden (1-3 weken), SLA's, integratiecapaciteit met SOC/IT.
+
+### Welke certificeringen zijn belangrijk?
+ISO/IEC 27001, CWNA/CWSP, ervaring met Wi-Fi 6 standaarden, experts in OT en IoT certificeringen zijn onderscheidende elementen.
+
+---
